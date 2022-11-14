@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/git@github.com:Moyano96/curso-intro-react-2.git/static/css/main.e87d19a1.css",
-    "main.js": "/git@github.com:Moyano96/curso-intro-react-2.git/static/js/main.6c47b21e.js",
-    "index.html": "/git@github.com:Moyano96/curso-intro-react-2.git/index.html",
-    "main.e87d19a1.css.map": "/git@github.com:Moyano96/curso-intro-react-2.git/static/css/main.e87d19a1.css.map",
-    "main.6c47b21e.js.map": "/git@github.com:Moyano96/curso-intro-react-2.git/static/js/main.6c47b21e.js.map"
+    "main.css": "/curso-intro-react-2/static/css/main.e87d19a1.css",
+    "main.js": "/curso-intro-react-2/static/js/main.6c47b21e.js",
+    "index.html": "/curso-intro-react-2/index.html",
+    "main.e87d19a1.css.map": "/curso-intro-react-2/static/css/main.e87d19a1.css.map",
+    "main.6c47b21e.js.map": "/curso-intro-react-2/static/js/main.6c47b21e.js.map"
   },
   "entrypoints": [
     "static/css/main.e87d19a1.css",
